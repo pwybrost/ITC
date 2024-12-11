@@ -1,5 +1,5 @@
 Author:
 Patrick William Brost
 
-Section
+Section:
 4-328, Introduction to Computing
